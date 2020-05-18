@@ -1,9 +1,17 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
+  company: Shashi Engineering
+  link: 
+  job_title: Junior Production Engineer
+  dates: October 2017 - August 2019
   quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    • Studying and analysing the schematic diagrams for the equipment to be manufactured.  
+    • Scrapped image and material data from clients websites to study and collaborate with the existing data for optimised production process.  
+    • Setting up quality- control procedures.  
+    • Overseeing production processes divided into three categories that is maintenance, optimisation and installation.  
+    • Planning and studying data to determine costs of business activity such as raw material purchases, inventory and labour influencing the production budget.  
+    • Analysed and forecasted changes in raw materials, manufacturing methods to determine effects on cost using MS Excel  
+    • Estimated of new and proposed product costs by comparing the previous data with Python libraries such as pandas and numpy.  
+    • Presenting management with reports prepared in Python libraries such as matplotlib, seaborn.  
+    • Reports specifying and comparing factors affecting prices and profitability of products or services.
