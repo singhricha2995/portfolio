@@ -1,8 +1,13 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Power Distribution Controlling Wireless Technology
+  link: https://www.docdroid.net/yJY3blC/power-distribution-controlling-wireless-technology-pdf
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    Project on Power Distribution to control wireless technology.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    Power is distributed according to the priority by phase tripping which uses wireless technology, i.e. RF for the avoidance of overloading.
+- layout: top-middle
+  name: Android App-Based Home Automation
+  quote: >
+    Built an application for Android for controlling the electrical loads.
+  description: | # this will include new lines to allow paragraphs
+    Controls the electrical loads with the help of Android application as Bluetooth input signals are received from the Android device. An 8051 micro controller is interfaced with the Bluetooth receiver.
