@@ -3,49 +3,41 @@ repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Richa Singh Madnawat
+title: Data Scientist
+email: singhricha2995@gmail.com
+phone: +1 519 694 8522
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username: singhricha2995
+twitter_username: singhricha2995
+linkedin_username: singhricha2995
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am an experienced Junior Production Engineer in the field of Manufacturing, also skilled in Data Science techniques i.e. Data Wrangling, Data Mining, Data Analysis, and generating Business Insights for top level management. Always inquisitive about knowing how any kind of Data can influence a business on a whole.
+  Skills: <mark>Python</mark>, <mark>SQL</mark>, <mark>Tableau</mark> and <mark>PowerBI</mark>
+# Experience Section
+experience_title: Experience
 
 # Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
+projects_title: Projects
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Professional Certifications (In Progress)
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
+   - [Practical Data Science with MATLAB Specialization](https://www.coursera.org/specializations/practical-data-science-matlab) (MathWorks)
+   - [Data Mining Specialization](https://www.coursera.org/specializations/data-mining) (University of Illinois at Urbana-Champaign)
+   - [Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (IBM)
+   - [Applied AI Professional Certificate](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai) (IBM)
+   - PLC SCADA and MATLAB (Sofcon Systems India Private Limited)
+   - Embedded Systems (Drmz System Innovations Pvt Ltd)
+   
 # Footer
 footer_show_references: true
 
