@@ -1,4 +1,16 @@
 - layout: left
+  company: Machine Learning Engineer Intern
+  link: 
+  job_title: STEM-Away
+  dates: May 2020 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Building machine learning models on Topic Suggestion, Tag Clustering, and Forum Classification techniques using Google’s BERT algorithm.  
+    • Developing recommendation engines using Content-based as well as Collaborative filtering algorithms.  
+    • Co-ordinating with an overseas team of 13 Machine Learning Engineers virtually, using Kanbanchi, and Google Colab.  
+
+- layout: left
   company: University of Windsor
   link: 
   job_title: RBC EPIC Founder
