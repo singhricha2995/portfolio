@@ -9,9 +9,19 @@
     • Overseeing production processes divided into three categories that is maintenance, optimisation and installation.  
     • Planning and studying data to determine costs of business activity such as raw material purchases, inventory and labour influencing the production budget.  
     • Presenting management with ad-hoc and periodic reports prepared in Python libraries such as matplotlib, seaborn, specifying and comparing factors affecting prices and profitability of products or services.  
-    
+
 - layout: left
-  company: M.P. Power Transmission Company Limited
+  company: Fitwell Corporation
+  link: 
+  job_title: Engineering Trainee
+  dates: September 2017 - October 2017
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Worked on electrical designing of panels and commissioning of electronic variable frequency.  
+
+- layout: left
+  company: M.P. Power Transmission Company Ltd.
   link: 
   job_title: Engineering Trainee
   dates: July 2016
