@@ -1,4 +1,16 @@
 - layout: left
+  company: University of Windsor
+  link: 
+  job_title: RBC EPIC Founder
+  dates: February 2020 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Selected by the EPICenter for the RBC EPIC Founders Program 2020, an intensive Startup Accelerator program, seed funded as a summer cohort to build on the idea within the EdTech space.  
+    • Building a software application to apply artificial intelligence to automate responses to inquiries from international students for educational institutions.  
+    • Attending exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, how to perform analytics on efficient market research, and how to build a successful business model.  
+
+- layout: left
   company: Shashi Engineering
   link: 
   job_title: Junior Production Engineer
