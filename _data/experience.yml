@@ -1,4 +1,16 @@
 - layout: left
+  company: Data Science Intern
+  link: 
+  job_title: Sabudh Foundation
+  dates: July 2020 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Selected for an intensive 6-month Data Science Internship Program to work on projects having a real social impact.  
+    • Learning the fundamentals of analytics and machine learning from the leading lights in the industry and academia.  
+    • Co-ordinating with an overseas team to learn, share, and grow the knowledge.  
+
+- layout: left
   company: Machine Learning Engineer Intern
   link: 
   job_title: STEM-Away
