@@ -1,4 +1,12 @@
 - layout: top-middle
+  name: Missing Data Imputation
+  link: https://github.com/singhricha2995/generalized-regression-neural-network-ensemble-for-single-imputation
+  quote: >
+    Tools : Python(tqdm, pandas, numpy, seaborn, scipy, scikit-learn)
+  description: | # this will include new lines to allow paragraphs
+    The project deals with development of Python code for single imputation of missing data using a generalized regression neural network for an unlabelled numerical and categorical dataset.The incomplete data set will be divided into a complete and incomplete dataset. SAGA algorithm will be applied to choose the optimal subsets.The subsets shall be used to train the GRNN, and the model will be fed to impute the missing data. Further we will calculate the NRMS (Normalized Root mean Square) value for numerical datasets and AE value for categorical dataset by comparing the imputed data sets with the original data sets.Moreover, the algorithm shall be analyzed for runtime against the data size and dimensions.
+    
+- layout: top-middle
   name: Obstacle Avoiding Robot
   link: https://github.com/singhricha2995/obstacle_avoiding_robot
   quote: >
