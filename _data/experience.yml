@@ -18,8 +18,8 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Building machine learning models on Topic Suggestion, Tag Clustering, and Forum Classification techniques using Google’s BERT algorithm.  
-    • Developing recommendation engines using Content-based as well as Collaborative filtering algorithms.  
+    • Building machine learning models on Topic Suggestion, Tag Clustering, and Forum Classification techniques using Google’s BERT algorithm and achieved the optimum accuracy of 95% while training the model.  
+    • Developing recommendation engines on 1.2M character and numerical values, preprocessed it for further analysis.  
     • Co-ordinating with an overseas team of 13 Machine Learning Engineers virtually, using Kanbanchi, and Google Colab.  
 
 - layout: left
@@ -32,7 +32,7 @@
   description: | # this will include new lines to allow paragraphs
     • Selected by the EPICenter for the RBC EPIC Founders Program 2020, an intensive Startup Accelerator program, seed funded as a summer cohort to build on the idea within the EdTech space.  
     • Building a software application to apply artificial intelligence to automate responses to inquiries from international students for educational institutions.  
-    • Attending exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, how to perform analytics on efficient market research, and how to build a successful business model.  
+    • Attending exclusive workshops and seminars with distinguished guest speakers, receiving one-on-one mentorships, coaching on design thinking, how to build a successful business model and performed analytics on market research tapping into 800 customers.  
 
 - layout: left
   company: Shashi Engineering
@@ -42,9 +42,9 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    • Overseeing production processes divided into three categories that is maintenance, optimisation and installation.  
-    • Planning and studying data to determine costs of business activity such as raw material purchases, inventory and labour influencing the production budget.  
-    • Presenting management with ad-hoc and periodic reports prepared in Python libraries such as matplotlib, seaborn, specifying and comparing factors affecting prices and profitability of products or services.  
+    • Analyzed and forecasted changes in raw material cost, manufacturing methods determining effects using MS Excel.  
+    • Estimated new and proposed product costs by comparing the previous data with Python libraries such as pandas, reports specifying and comparing factors affecting prices and profitability of products or services.  
+    • Based on the analysis performed on the collected data, 40% of the inventory raw material was reused and it saved the expenses for upcoming projects.  
 
 - layout: left
   company: Fitwell Corporation
