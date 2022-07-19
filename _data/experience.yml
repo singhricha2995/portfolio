@@ -1,4 +1,16 @@
 - layout: left
+  company: Data Analyst - AI
+  link: 
+  job_title: Royal Bank of Canada
+  dates: March 2021 - Present
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    • Built and customized 12+ dashboards generating actionable insights for the team and internal stakeholders.  
+    • Implemented data quality rules, maintaining threshold of ~99.8% by identifying data issues and conducting root cause analysis.  
+    • Performed data analysis to highlight data anomalies and applied Machine learning methodologies i.e., developing chatbot to solve specific business problems  
+
+- layout: left
   company: Data Science Intern
   link: 
   job_title: Sabudh Foundation
