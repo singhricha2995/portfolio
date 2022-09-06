@@ -16,7 +16,7 @@ linkedin_username: singhricha2995
 # about_title: About Me
 about_profile_image: images/profile_image.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an experienced Data Analyst with experience in the field of Manufacturing and Banking, also skilled in Data Science techniques i.e. Data Wrangling, Data Mining, Data Analysis, and generating Business Insights for top level management. Always inquisitive about knowing how any kind of Data can influence a business on a whole.  
+  I am an experienced Data Analyst in the field of Banking and Manufacturing, also skilled in Data Science techniques i.e. Data Wrangling, Data Mining, Data Analysis, and generating Business Insights for top level management. Always inquisitive about knowing how any kind of Data can influence a business on a whole.  
   Skills: <mark>SQL</mark>, <mark>Tableau</mark>, <mark>Python</mark>, <mark>MATLAB</mark>, <mark>Tableau</mark>, <mark>PowerBI</mark>, <mark>Jira (Confluence)</mark>, <mark>Kibana</mark>, <mark>Mural</mark>, <mark>MS Office</mark>, <mark>Dialog Flow</mark>, and <mark>RASA</mark> 
 # Experience Section
 experience_title: Experience
